@@ -19,6 +19,8 @@ edition = "2024.beta" # edition = "legacy" to use legacy (pre-2024) Move
 
 [addresses]
 valcoin = "0x0"
+val_community= "0xec2d26d2e580660c777a088e08be9d2995c350d05b7b8fa6ad849c5df76ae2de"
+val_cex = "0xc14c6611252dfa18656778d2a5dc35479f6c7312f43bd436aaa45243c0c25755"
 
 # Named addresses will be accessible in Move as `@name`. They're also exported:
 # for example, `std = "0x1"` is exported by the Standard Library.
